@@ -17,6 +17,6 @@ Key Metrics & Analysis Areas:
 9) Most relevant tags for top-rated movies
 10) Top Movies by Tags
 
-PROJECT DASHBOARD LINK:
+PROJECT DASHBOARD LINK:https://drive.google.com/file/d/1Qomt83JVS7T6DSt4dEe-BShLIZ0LOnCc/view?usp=sharing
 
-PROJECT PDF LINK:
+PROJECT PDF LINK:https://drive.google.com/file/d/16w0baf519ITkygIk45RXj-nOIwAcvkfL/view?usp=sharing
